@@ -7,9 +7,10 @@
 
 <div align="center">
 
-**The most buggy frontend-to-back developer, which likes to play games and to bug codes that you ever seen!**
+**The most buggydeveloper, which likes to play games and to bug codes that you ever seen!**
 
-Currently working on discord minesweeper
+Currently working on HyteScript Documentation
+   
 
 [![My Company Server][hytera-development-server]][hytera-development-server-url]
 
@@ -20,7 +21,7 @@ Currently working on discord minesweeper
 
 ## About
 hi, my name is Nicolas (but you can call me Hunter) 👋 <br>
-i'm a 16 year old guy which lives in brazil 💬 <br>
+i'm a lazy dev which lives in brazil 💬 <br>
 been working on programming since 2012 👨‍💻 <br>
 i like to code, make some designs and to play some videogames 🎮 <br>
 <br>
