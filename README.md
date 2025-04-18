@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/hunter.png" width="400" height="400">
+  <img src="images/hunter.png" width="256" height="256">
 </p>
 
 <h1 align="center">HUNTER THE D3V</h1>
