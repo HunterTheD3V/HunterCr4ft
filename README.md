@@ -7,15 +7,15 @@
 
 <div align="center">
 
-**The most buggydeveloper, which likes to play games and to bug codes that you ever seen!**
+**a random brazilian developer that is known for not being the smartest one**
 
-Currently working on HyteScript Documentation
+Currently working on Themr and Discraft
    
 
 [![My Company Server][hytera-development-server]][hytera-development-server-url]
 
 [hytera-development-server]: https://img.shields.io/discord/773352845738115102?color=5865F2&logo=discord&logoColor=white
-[hytera-development-server-url]: https://discord.gg/GZQrhyjfXe
+[hytera-development-server-url]: https://discord.gg/GZQrhyjfXe](https://discord.gg/ATVkfsXbe6
     
 </div>
 
@@ -28,7 +28,7 @@ i like to code, make some designs and to play some videogames 🎮 <br>
 
 <hr>
 
-   [![Discord Presence](https://lanyard.cnrad.dev/api/786623348435976213)](https://discord.com/users/786623348435976213)
+   [![Discord Presence](https://lanyard.cnrad.dev/api/786623348435976213)(https://discord.com/users/786623348435976213)]
 
 
 
