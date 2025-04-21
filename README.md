@@ -23,8 +23,9 @@
     <td align="center" bgcolor="#0d0000" style="color: white; border-radius: 12px; padding: 20px;">
       <p>
         <br> - hi, my name is Nicolas (but you can call me Hunter) 👋🎩 <br><br>
-        <br> - i'm a learning young dev from brazil 🟩🟨🟦 <br><br>
-        <br> - been working with code since 2016 👨‍💻💻 <br><br>
+        <br> - I'm a fan of Corinthians 🦅 <br><br>
+        <br> - i'm a young dev learning from brazil 🟩🟨🟦 <br><br>
+        <br> - been working with code since 2017 👨‍💻💻 <br><br>
         <br> - i like to code, football and to play some videogames 🖥⚽🎮
       </p>
     </td>
